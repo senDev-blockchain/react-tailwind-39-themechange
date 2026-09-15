@@ -44,7 +44,7 @@ function CSSTransition({
   }
 
   const nodeRef = React.useRef(null);
-  const Component = tag;
+ 
 
   return (
     <ReactCSSTransition
